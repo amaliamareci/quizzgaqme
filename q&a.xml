@@ -1,0 +1,51 @@
+<quiz>
+		<question1>Cine este zeita iubirii in cultura greaca?</question1>
+			<optionA1>Artemis</optionA1>
+			<optionB1>Afrodita</optionB1>
+			<optionC1>Hera</optionC1>
+			<optionD1>Atena</optionD1>
+		<answer1>2</answer1>
+
+		<question2>Cine a fost prima femeie care a luat Premiul Nobel?</question2>
+			<optionA2>Marie Curie</optionA2>
+			<optionB2>Selma Lagerlof</optionB2>
+			<optionC2>Elinor Ostrom</optionC2>
+			<optionD2>Maica Tereza</optionD2>
+		<answer2>1</answer2>
+
+		<question3>Cine este personajul feminin principal din romanul Mandrie si prejudecata?</question3>
+			<optionA3>Catherine Earnshaw</optionA3>
+			<optionB3>Jane Eyre</optionB3>
+			<optionC3>Elizabeth Bennet</optionC3>
+			<optionD3>Lady Catherine de Bourgh</optionD3>
+		<answer3>3</answer3>
+
+		<question4>Albinismul apare din cauza lipsei de:</question4>
+			<optionA4>Calciu</optionA4>
+			<optionB4>Pigment</optionB4>
+			<optionC4>Vitamina A</optionC4>
+			<optionD4>Oxigen</optionD4>
+		<answer4>2</answer4>
+
+		<question5>Care este cel mai inalt varf din Romania?</question5>
+			<optionA5>Varful Parangul Mare</optionA5>
+			<optionB5>Varful Omu</optionB5>
+			<optionC5>Varful Negoiu</optionC5>
+			<optionD5>Varful Moldoveanu</optionD5>
+		<answer5>4</answer5>
+		
+		<question6>Care este cel mai mare animal cunoscut care ar fi existat vreodată?</question6>
+			<optionA6>Balena albastra</optionA6>
+			<optionB6>Elefantul african</optionB6>
+			<optionC6>Girafa</optionC6>
+			<optionD6>Anaconda</optionD6>
+		<answer6>1</answer6>
+		
+		<question7>Ce tara se afla la sud de Romania?</question7>
+			<optionA7>Moldova</optionA7>
+			<optionB7>Ungaria</optionB7>
+			<optionC7>Ucraina</optionC7>
+			<optionD7>Bulgaria</optionD7>
+		<answer7>4</answer7>
+</quiz>
+
